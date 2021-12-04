@@ -132,7 +132,7 @@
 		}
 
 	strong, b {
-		color: #646464;
+		color: #000000;
 		font-weight: 400;
 	}
 
@@ -142,11 +142,11 @@
 
 	p {
 		margin: 0 0 2em 0;
-		color: #646464;
+		color: #000000;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #646464;
+		color: #000000;
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
@@ -2070,7 +2070,7 @@
 	}
 
 	label {
-		color: #646464;
+		color: #000000;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 300;
@@ -2692,7 +2692,7 @@
 		}
 
 		table th {
-			color: #646464;
+			color: #000000;
 			font-size: 0.9em;
 			font-weight: 300;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -3190,7 +3190,7 @@
 		}
 
 		#banner p {
-			font-size: 1.25em;
+			font-size: 2em;
 			margin-bottom: 1.75em;
 		}
 
